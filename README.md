@@ -23,7 +23,7 @@ This repository does not include datasets. All data is provided in [this reposit
 
 If you plan to run the evaluators, place the provided data under the `dataset/` directory so the scripts can reference it.
 
-### Data Fields
+### Data Fields (in [this repository](https://huggingface.co/datasets/yonsei-dli/BESPOKE).)
 
 Query Table (`queries/query_table.parquet`)
 

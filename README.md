@@ -25,7 +25,7 @@ If you plan to run the evaluators, place the provided data under the `dataset/` 
 
 ### Data Fields
 
-Examples / Query Table (`queries/query_table.parquet`)
+Query Table (`queries/query_table.parquet`)
 
 | Key            | Type | Description                                 |
 | -------------- | ---- | ------------------------------------------- |
